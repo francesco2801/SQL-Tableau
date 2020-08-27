@@ -1,15 +1,15 @@
-Project Title
+### Project Title
 SQL + Tableau
 
-Date created
+### Date created
 08/26/2020.
 
-Overview
+### Overview
 This project consisted of the exploration of a movie rentals database by running SQL queries 
 and visualization by Tableau to show the queries output.
 
-Files used
+### Files used
 chicago.csv new_yourk_city.csv washington.csv
 
-Requirements
+### Requirements
 PostgreSQL - pgAdmin 4
