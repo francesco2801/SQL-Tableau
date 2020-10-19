@@ -6,7 +6,7 @@ SQL + Tableau
 
 ### Overview
 This project consisted of the exploration of a movie rentals database by running SQL queries 
-and visualization by Tableau to show the queries output.
+and Tableau to show the queries output.
 
 ### Files used
 chicago.csv new_yourk_city.csv washington.csv
