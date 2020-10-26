@@ -22,4 +22,4 @@ The presentation includes four slides:
 - washington.csv
 
 ### Requirements
-PostgreSQL, Tableau
+SQL, Tableau
