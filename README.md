@@ -16,8 +16,5 @@ The presentation includes four slides:
 - A 1-2 sentence answer to the question, based on the data and visualization, on each slide
 - Indicate which code in the attached text file was used to create the visualization OR add the query used to generate the visualization.
 
-### Files used
-
-
 ### Requirements
 SQL, Tableau
