@@ -17,9 +17,7 @@ The presentation includes four slides:
 - Indicate which code in the attached text file was used to create the visualization OR add the query used to generate the visualization.
 
 ### Files used
-- chicago.csv 
-- new_yourk_city.csv 
-- washington.csv
+
 
 ### Requirements
 SQL, Tableau
